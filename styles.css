@@ -1,0 +1,43 @@
+@media{
+  
+}
+
+#navbar{
+  float: left;
+}
+
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+  background-color: #f1f1f1;
+  height: 100%;
+  font-size:30px;
+  text-align: center;
+}
+
+li.nav, a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li.nav a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.main-section{
+  margin-left: 250px;
+}
+
+header:not(.IT){
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+  font-size:30px;
+}
